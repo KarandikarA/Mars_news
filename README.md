@@ -1,6 +1,6 @@
 # Mars news program 
 
-For this module challenge, we were supposed to scrape data from a Mars news site and organzie and analyse the data from it. 
+For this module challenge, we were supposed to scrape data from a Mars news site and organize and analyse the data from it. 
 
 Part 1:scrapping text and titles from the Mars News site 
 
